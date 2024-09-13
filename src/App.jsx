@@ -72,7 +72,7 @@ function App() {
             <div className='w-[125px] h-[125px] bg-orange-300 rounded-full absolute top-[-60px]'>
               <img src="https://soorajsunil1409.github.io/Week-3-Codechef/assets/Eiden-Cy55FkjG.png" alt="" />
             </div>
-           <div className='absolute flex justify-center size-[30px] -translate-y-16 lg:-translate-y-[270%]'>
+           <div className='absolute flex justify-center size-[30px] -translate-y-16 lg:-translate-y-[5rem]'>
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIlSURBVHgB1djNUcJAGMbxZ+PHeKQDU4IlYAXqQRxvtmAFQAViBXJz1INjBdqBlBA7yN3B+L4blvAZ9ith9z+TgSEy/NxZwmYFPFa8o4NfXKJAigOc0mNOL//QMRHX+ILHBDxUvKFLD32Cdmv+LENC+AMMxRU9d8wJPhvhJ3p6afC2jI6h6GEMh6zhhE4J/UlPU9gkMKDpM4RlVnBndPXp1nhjuDd0JbDCG8G9oyuFMV4b3hi6khjhteCNoyuNNn4nvDW0ShNfC28drdLAb4XvDa3agd8I3ztaVYNfgweDVm3BL8GDQ6s24Ofw2YLpG6GhVSv4ZH5iigeEiuYKDGbLZ5mEyxf+cIfQK+QSWqZGvI84StWoJ/ILWX/nElpykBOa22eIqaL0xgcHOsUzUp7jKSIsoetjjghjeIbYOkHOU2WCuJrQvgzBDyU8pukiBzphPV1iHhFL03K9Uv5yHmOEOEZ9LG7L76SEy1EX9rtKLZWp0ebmq0NaMo5oyoSKzwl9rkabSxbPihsMAsTzFF5Cc5vvOV/oHxBBrBhLdG/9kr39Ln//+K1orn5fZX/4WjS3eyerffxONKe3d9geXgvN6e/WNo/XRnPacK5BvBGaM4JzDeCN0ZwxnPOIt0JzVnDOA94azSWwzHF5kMEBLT8fjskNmnKHKdV8yxhHuJcrUoec4ariVW7hXdDRpaOzcjqj4wO8nu75uVX0Bl9M7o5V5a6ju6l/M7fSEhAPUNsAAAAASUVORK5CYII=" alt="" />
               <span className='absolute translate-y-[5px] text-sm'>1</span>
             </div>
