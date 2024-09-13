@@ -53,7 +53,7 @@ function App() {
             <div className='w-[100px] h-[100px] bg-[#989999] rounded-full absolute top-[-60px]'>
               <img src="https://soorajsunil1409.github.io/Week-3-Codechef/assets/Jackson-C5VKmWYc.png" alt="" />
             </div>
-            <div className='absolute flex justify-center size-[30px] translate-y-[-44px] lg:translate-y-[-54px]'>
+            <div className='absolute flex justify-center size-[30px] -translate-y-12 lg:-translate-y-14'>
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJjSURBVHgB1ZrbbeJAFIYPw+WZElxCOli2gl0qWCxxfcqmgjgd7D4gJEByUkGSCkIJKYES/Mw157eYCCdgZsYDzHwSmosEfD4e4TNnKJFl4jgOVqtVsN1uAyFEwm3S6XRmZJkSWYBl6yx7u9lsWjwMDn5RqTTj5qnb7T6SBQqLj8fjW45qxN264lvmfIE/B4PBnApQSJylY5ZukT4Jv8Jer/dChggypIA0wN15nk6nf8gQo4gXlM5QLpdb7Xb7iTTRFrcpLTGR1xI/h7REV15Z/JzSEh15JfFLSEtU5U+KX1JaoiKfK34Nackp+aPi15SW5MkfFHdBWnJM/pu4S9KSQ/IZcRel92ju5zafucpkMrl3WBrEo9EokINUHBOcakbkNnVeMrEcpOI8cU8ewCuiwUFuoC+we3F8iWTgIP9GKxaLRYM8goP8Cy2Wyg35RYBVIvgKVPeKLlEXvPv2UTxdKnPyjwTi7+QX8zAME1Gr1WbkEbvCEgnYy4EPrNfrNNkSu8EDeQAH+J0rYDP0U3EM+GfxPzkOB7gp+5/ZYb/f/+v4krnbrzdmSnDVarWJ20GOwZnrA+fi//bnvu2A8DhdLpdvvHScSAUgzZGOvs4f3HO6In9MGhzd5V9bPk8a5NZVriV/ShqcrGRdWl5FGijVDi8lryoNlKu155bXkQZa9fFzyetKA+0TCdvyJtLA6AzIlrypNDA+LtzJP6PWQWbcfX2M61D4gJYLNBEffesUlHBAG8r01BQrR+Io4bF8xN0flHMkznfntUiUM59HlhkOhzeVSgW1yLR6gD8iYHuInRZZ5AM0eZC++VE+lQAAAABJRU5ErkJggg==" alt="" />
               <span className='absolute translate-y-[5px] text-sm'>2</span>
             </div>
@@ -72,7 +72,7 @@ function App() {
             <div className='w-[125px] h-[125px] bg-orange-300 rounded-full absolute top-[-60px]'>
               <img src="https://soorajsunil1409.github.io/Week-3-Codechef/assets/Eiden-Cy55FkjG.png" alt="" />
             </div>
-            <div className='absolute flex justify-center size-[30px] translate-y-[-65px] lg:translate-y-[-83px]'>
+            <div className='absolute flex justify-center size-[30px] -translate-y-16 lg:-translate-y-20'>
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIlSURBVHgB1djNUcJAGMbxZ+PHeKQDU4IlYAXqQRxvtmAFQAViBXJz1INjBdqBlBA7yN3B+L4blvAZ9ith9z+TgSEy/NxZwmYFPFa8o4NfXKJAigOc0mNOL//QMRHX+ILHBDxUvKFLD32Cdmv+LENC+AMMxRU9d8wJPhvhJ3p6afC2jI6h6GEMh6zhhE4J/UlPU9gkMKDpM4RlVnBndPXp1nhjuDd0JbDCG8G9oyuFMV4b3hi6khjhteCNoyuNNn4nvDW0ShNfC28drdLAb4XvDa3agd8I3ztaVYNfgweDVm3BL8GDQ6s24Ofw2YLpG6GhVSv4ZH5iigeEiuYKDGbLZ5mEyxf+cIfQK+QSWqZGvI84StWoJ/ILWX/nElpykBOa22eIqaL0xgcHOsUzUp7jKSIsoetjjghjeIbYOkHOU2WCuJrQvgzBDyU8pukiBzphPV1iHhFL03K9Uv5yHmOEOEZ9LG7L76SEy1EX9rtKLZWp0ebmq0NaMo5oyoSKzwl9rkabSxbPihsMAsTzFF5Cc5vvOV/oHxBBrBhLdG/9kr39Ln//+K1orn5fZX/4WjS3eyerffxONKe3d9geXgvN6e/WNo/XRnPacK5BvBGaM4JzDeCN0ZwxnPOIt0JzVnDOA94azSWwzHF5kMEBLT8fjskNmnKHKdV8yxhHuJcrUoec4ariVW7hXdDRpaOzcjqj4wO8nu75uVX0Bl9M7o5V5a6ju6l/M7fSEhAPUNsAAAAASUVORK5CYII=" alt="" />
               <span className='absolute translate-y-[5px] text-sm'>1</span>
             </div>
@@ -87,7 +87,7 @@ function App() {
             <div className='w-[100px] h-[100px] bg-red-600 rounded-full absolute top-[-60px]'>
               <img src="https://soorajsunil1409.github.io/Week-3-Codechef/assets/Emma-28u1or3Z.png" alt="" />
             </div>
-            <div className='absolute flex justify-center size-[30px] translate-y-[-44px] lg:translate-y-[-54px]'>
+            <div className='absolute flex justify-center size-[30px] -translate-y-12 lg:-translate-y-14'>
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKTSURBVHgB1dlNbtpAFMDx94aAEN1Yaom6dE5QcoKC1BiyoycoOUGaExRO0PYEoScISz4iwRE4At1VCVG9adrG2K8zrgaRBIM/BjP+b7AdOf4JDTAeIyhs3DSNh/v7KkPPJMA34hgRfucv00KpNKn1ZjYoCkFB48Zr0yH3ExI0CcCA4Kt185jr1Po/ZpCwxPDrevncI/gS5RwEbJ8MbzqQoETw6/rhpUfUgnhN86UXtbjDJzY8IVoWGx8Lrggti4WPDFeMlkXGR4LvCC2LhA8N3zFaFhofCp4SWhYKvxWeMlq2Fb8Rvie0bCM+EL5ntCwQvxauCVq2Fv8Mrhla9gzPVv86ssqfNUSLKs7vX1erB5ZwMcvjU9KPoGsE1YF12Ja7/lDx59OeO+abJmhenuWOxHzef8f/LhZNyABaxG9Y/FHhwxnDc8hKBB/EC46rhuEU8j8hSx0UjtmiWKxA1nIeKoxc14QMxiCjCfgUMhY7QJvlHWfGt5Ut1KSRQ2zKahPb5j9D2XnXEaen8gcIkRItzqQa0lf/Re4P6+WxmA+AziHOrMHNkdhcfqu4mDsD3ce6R+/l5hIuxg3fuwBN85AurNHt8rP46Hvc6t92+ZEz0CwC6jQG80cLq2tv3YaNcgs8uAQNEuj6cN5+ejzwZlkHfBBatHF5Yp/4TWjR1gWhfeC3oUWhluDSxIdBi0IveqaBD4sWRVpm3iU+CloUeWF/F/ioaFGsRykq8XHQotgPr1Tg46JFyR4XWi+bHjCBN6Kcxy9qE3l87nHXhZgluud8N7zruSx3jEC90CchTIiglgT9/98oatR4VfU8bCHiW/4A33xyEZsQevyG5dtJfz4BBSmDr3bVNI3iH3s5fE779gwU9w9WD1r6ifz9KAAAAABJRU5ErkJggg==" alt="" />
               <span className='absolute translate-y-[5px] text-sm'>3</span>
             </div>
@@ -111,7 +111,7 @@ function App() {
                   <div className='flex flex-col items-end gap-[5px]'>
 
                     <div>{item.points}</div>
-                    <div className='w-[20px] rotate-180'>
+                    <div className='w-5 rotate-180'>
                       <img src={item.icon} alt="" />
                     </div>
                   </div>
